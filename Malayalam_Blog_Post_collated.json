@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "8cf5e5be-fa6a-4856-82ac-03e83eaddf00",
+            "collectionId": "Malayalam",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Blog_Post/8cf5e5be-fa6a-4856-82ac-03e83eaddf00/8cf5e5be-fa6a-4856-82ac-03e83eaddf00_ml_Male.mp4"
+        },
+        {
+            "id": "a7dccebf-cfe1-42b4-b981-99493b579752",
+            "collectionId": "Malayalam",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Blog_Post/a7dccebf-cfe1-42b4-b981-99493b579752/a7dccebf-cfe1-42b4-b981-99493b579752_ml_Male.mp4"
+        },
+        {
+            "id": "f3911d69-6c49-4276-a9c2-4920405a26bd",
+            "collectionId": "Malayalam",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Blog_Post/f3911d69-6c49-4276-a9c2-4920405a26bd/f3911d69-6c49-4276-a9c2-4920405a26bd_ml_Male.mp4"
+        },
+        {
+            "id": "5360ca00-7672-4a33-803e-eac7781c6388",
+            "collectionId": "Malayalam",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Malayalam/Malayalam_Blog_Post/5360ca00-7672-4a33-803e-eac7781c6388/5360ca00-7672-4a33-803e-eac7781c6388_ml_Male.mp4"
+        }
+    ]
+}
